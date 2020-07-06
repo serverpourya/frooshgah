@@ -1,1 +1,6 @@
-https://raw.githubusercontent.com/serverpourya/frooshgah/master/README.md
+[
+  {
+    "نام": "کی وبلاگ یاد میدی",
+    "آیدی": "به تو چه😂"
+  }
+]
